@@ -2,7 +2,7 @@
 # Formulário Mentoria
 
 
-## Informações do projeto
+### Informações do projeto
 
 Neste projeto foram utilizados conhecimentos como:
 - Conceitos básicos de HTML
